@@ -8,7 +8,7 @@ Atualmente, estou expandindo meus conhecimentos Desenvolvimento de Software, Red
 
 Meu Hobby é jogar, colecionar e desenvolver games.
 
-## Perfil do Linkedin (#OpenToWork)
+## Perfil do Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br/in/brunobricce)
 
@@ -16,7 +16,8 @@ Meu Hobby é jogar, colecionar e desenvolver games.
 
 Linguagens que domino: 
 
-![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Linguagens que estou aprendendo: 
 
