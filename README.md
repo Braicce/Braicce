@@ -10,9 +10,9 @@ Meu Hobby é jogar, colecionar e desenvolver games.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br/in/brunobricce)
 
-##Vault Servers 
+## Vault Servers 
 
-Sou um dos sócios fundadores da Vault Servers: 
+Sou sócio-fundador da Vault Servers e Tech Manager: 
 
 Locação de servidores dedicados, VPS Linux ou Windows, Hosting de Sites, VPN Empresariais entre outros serviços de Infraestrura e Desenvolvimento. 
 
