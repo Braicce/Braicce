@@ -10,21 +10,11 @@ Meu Hobby é jogar, colecionar e desenvolver games.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com.br/in/brunobricce)
 
-## Habilidades
+##Vault Servers 
 
-Linguagens que domino: 
+Sou um dos sócios fundadores da Vault Servers: 
 
-![BashScript](https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Locação de servidores dedicados, VPS Linux ou Windows, Hosting de Sites, VPN Empresariais entre outros serviços de Infraestrura e Desenvolvimento. 
 
-Linguagens que estou aprendendo: 
+http://vaultservers.com.br/
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Sistemas Operacionais que domino: 
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
