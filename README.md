@@ -1,8 +1,8 @@
 ## Bruno Bricce (Braicce)
 
-Possuo Bacharelado em Ciência da Computação e Pós Graduação em Segurança da Informação.
-
-Tenho uma vasta experiência nas áreas de Segurança da Informação e Infraestrutura, totalizando 12 anos de carreira com foco nas áreas de Infraestrutura e Segurança. Atualmente, estou expandindo meus conhecimentos Desenvolvimento de Software e Infraestrutura como Código (IaC).
+Cientista da Computação 
+Pós Graduado em Segurança da Informação 
+Dev de Games Indie
 
 Meu Hobby é jogar, colecionar e desenvolver games.
 
@@ -12,9 +12,9 @@ Meu Hobby é jogar, colecionar e desenvolver games.
 
 ## Vault Servers 
 
-Sou sócio-fundador da Vault Servers e Tech Manager: 
+Tech Manager e Co-founder na Vault Servers - Cloud 100% BR - https://vaultservers.com.br/
 
-Locação de servidores dedicados, VPS Linux ou Windows, Hosting de Sites, VPN Empresariais entre outros serviços de Infraestrura e Desenvolvimento. 
+Dev e Co-Founder na Play Vault - Portal de Indies Nacionais - https://playvault.cloud
 
-https://vaultservers.com.br/
+
 
