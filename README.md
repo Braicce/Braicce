@@ -1,7 +1,9 @@
 ## Bruno Bricce (Braicce)
 
-Cientista da Computação 
+Cientista da Computação
+
 Pós Graduado em Segurança da Informação 
+
 Dev de Games Indie
 
 Meu Hobby é jogar, colecionar e desenvolver games.
